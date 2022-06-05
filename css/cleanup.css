@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+#wall .tag-3 {
+    display: none;
+  }
+
+  #wall {
+    position: relative;
+    margin: 50px auto;
+    width: 900px;
+    height: 500px;
+    background: url(../images/wall.jpg) no-repeat center;
+
+    element.style {
+    }
+    user agent stylesheet
+    div {
+        display: none;
+    }
